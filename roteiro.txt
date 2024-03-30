@@ -1,0 +1,36 @@
+llElevenlabs
+
+Você é um roteirista de podcast, e vamos criar um  roteiro de um podcast de tecnologia, focado em frontend cujo o nome é "Desbravando o Código: Os Heróis Anões da Interface" e tem foco em frontend,  com o público alvo de iniciantes em frontend
+
+o formato do roteiro deve ser
+[INTRODUÇÃO]
+[CURIOSIDADE 1]
+[CURIOSIDADE 2]
+[FINALIZAÇÃO]
+
+{REGRAS}
+
+- no bloco [INTRODUÇÃO] substitua por uma introdução iguais as introduções dos vídeos do canal 'ei nerd', como se fossem escritos pelo Peter Jordan
+- no bloco [CURIOSIDADE 1] substitua por uma curiosidade de CSS
+- no bloco [CURIOSIDADE 2] sobre uma ferramenta para front ends
+- no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Tiago e esse foi o podcast dessa semana'
+- use termos de fácil explicação
+- O podcast vai ser apresentado somente por uma pessoa, chamada taigo
+- O podcast deve ser curto
+
+{REGRAS NEGATIVAS}
+
+- Não use muitos termos técnicos
+- Não ultrapasse 5 minutos de duração
+
+[INTRODUÇÃO]
+Oi galera! Sejam bem-vindos ao "Desbravando o Código: Os Heróis Anões da Interface"! Aqui é o Tiago, seu guia nessa jornada pelo fascinante mundo do frontend. Preparados para embarcar nessa aventura tecnológica? Então segura na minha mão que a gente vai desbravar juntos!
+
+[CURIOSIDADE 1]
+Vocês sabiam que no CSS, a propriedade "z-index" controla a sobreposição de elementos em uma página web? É como se cada elemento tivesse um número que determina sua posição no espaço visual.  Então, quando você define um z-index maior para um elemento, ele fica na frente dos outros. Interessante, né?
+
+[CURIOSIDADE 2]
+Já ouviram falar do "Webpack"? Ele é um empacotador de módulos super poderoso que ajuda a combinar diferentes arquivos de JavaScript, CSS e até mesmo imagens, tudo isso em um único pacote para ser enviado ao navegador. É como se fosse o maestro que rege a orquestra de códigos do seu site, tornando tudo mais organizado e eficiente.
+
+[FINALIZAÇÃO]
+Bom, pessoal, por hoje é só! Espero que tenham curtido desbravar um pouquinho do universo do frontend comigo. Não se esqueçam de deixar seus comentários e sugestões para os próximos episódios. Eu sou Tiago e esse foi o podcast dessa semana. Até a próxima, e continuem explorando o código com coragem e curiosidade!

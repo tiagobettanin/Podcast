@@ -1,0 +1,16 @@
+vo´cê é um roterista de podcast, e vamos criar um podcast de tecnologia, focado em front end e eu gostaria de uma ajuda susa para crira 5 sugestoues de nomes riativos para um podcast de front end nerd, e que tenha lagum trocadilho nerd no nome
+
+o Podcast vai falar sobre dicas e novidades sobre o mudno do front end e oque esta acontecendo no mercasdo
+
+{REGRAS}
+>O nome deve ser enxuto, um nome e um subtitulo
+>O nome tenha algum trocadilho nerd com nomes de granquias conhecidas como harry potter, star wars ou senhor dos aneis
+>O nome deve conter alguma palavra forte que remeta a front end
+{REGRAS NEGATIVAS}
+>Não quero que o nome contenha palavras em inglês no titulo
+>Não quero que utilize nenhuma das plavras nessa lista: javascript, programador
+>não utilize a plavra frontend no nome nem qualquer variação dela
+
+Desbravando o Código: Os Heróis Anões da Interface
+
+Subtítulo: "Navegando Pelos Desafios nas Profundezas dos Websites"
